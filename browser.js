@@ -12,7 +12,7 @@ module.exports = function (opt) {
     var callbackCollect = this.callbackCollect
 
     callbackCollect(function (ele) {
-      mediumZoom('image', opt || {})
+      mediumZoom('img', opt || {})
     })
   }
 }
