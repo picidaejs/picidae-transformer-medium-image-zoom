@@ -1,0 +1,18 @@
+{
+  "name": "picidae-transformer-medium-image-zoom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "imcuttle",
+    "picidae-transformer-medium-image-zoom"
+  ],
+  "author": "imcuttle",
+  "license": "MIT",
+  "dependencies": {
+    "medium-zoom": "^0.4.0"
+  }
+}
